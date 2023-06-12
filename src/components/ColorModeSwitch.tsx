@@ -5,7 +5,7 @@ const ColorModeSwitch = () => {
   return (
     <HStack>
       <Button onClick={toggleColorMode}>
-        Toggle {colorMode === "light" ? "Dark" : "Light"}
+        {colorMode === "light" ? "Light" : "Dark"}
       </Button>
     </HStack>
   );
