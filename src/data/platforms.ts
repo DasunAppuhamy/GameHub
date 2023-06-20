@@ -1,4 +1,8 @@
-export default[
+export default {
+  "count": 14,
+  "next": null,
+  "previous": null,
+  "results": [
     {
       "id": 1,
       "name": "PC",
@@ -9,7 +13,7 @@ export default[
           "name": "PC",
           "slug": "pc",
           "games_count": 513425,
-          "image_background": "https://media.rawg.io/media/games/490/49016e06ae2103881ff6373248843069.jpg",
+          "image_background": "https://media.rawg.io/media/games/618/618c2031a07bbff6b4f611f10b6bcdbc.jpg",
           "image": null,
           "year_start": null,
           "year_end": null
@@ -35,8 +39,8 @@ export default[
           "id": 18,
           "name": "PlayStation 4",
           "slug": "playstation4",
-          "games_count": 6645,
-          "image_background": "https://media.rawg.io/media/games/c4b/c4b0cab189e73432de3a250d8cf1c84e.jpg",
+          "games_count": 6646,
+          "image_background": "https://media.rawg.io/media/games/511/5118aff5091cb3efec399c808f8c598f.jpg",
           "image": null,
           "year_start": null,
           "year_end": null
@@ -149,8 +153,8 @@ export default[
           "id": 3,
           "name": "iOS",
           "slug": "ios",
-          "games_count": 76900,
-          "image_background": "https://media.rawg.io/media/games/af7/af7a831001c5c32c46e950cc883b8cb7.jpg",
+          "games_count": 76901,
+          "image_background": "https://media.rawg.io/media/games/13a/13a528ac9cf48bbb6be5d35fe029336d.jpg",
           "image": null,
           "year_start": null,
           "year_end": null
@@ -166,8 +170,8 @@ export default[
           "id": 21,
           "name": "Android",
           "slug": "android",
-          "games_count": 52228,
-          "image_background": "https://media.rawg.io/media/games/e04/e04963f3ac4c4fa83a1dc0b9231e50db.jpg",
+          "games_count": 52229,
+          "image_background": "https://media.rawg.io/media/games/238/2383a172b4d50a7b44e07980eb7141ea.jpg",
           "image": null,
           "year_start": null,
           "year_end": null
@@ -183,8 +187,8 @@ export default[
           "id": 5,
           "name": "macOS",
           "slug": "macos",
-          "games_count": 101596,
-          "image_background": "https://media.rawg.io/media/games/d58/d588947d4286e7b5e0e12e1bea7d9844.jpg",
+          "games_count": 101595,
+          "image_background": "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg",
           "image": null,
           "year_start": null,
           "year_end": null
@@ -220,8 +224,8 @@ export default[
           "id": 6,
           "name": "Linux",
           "slug": "linux",
-          "games_count": 75195,
-          "image_background": "https://media.rawg.io/media/games/d1a/d1a2e99ade53494c6330a0ed945fe823.jpg",
+          "games_count": 75194,
+          "image_background": "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg",
           "image": null,
           "year_start": null,
           "year_end": null
@@ -247,8 +251,8 @@ export default[
           "id": 8,
           "name": "Nintendo 3DS",
           "slug": "nintendo-3ds",
-          "games_count": 1706,
-          "image_background": "https://media.rawg.io/media/games/3c1/3c139f67a73f0bf5ce0d8f2abf83c0d0.jpg",
+          "games_count": 1703,
+          "image_background": "https://media.rawg.io/media/screenshots/ea9/ea9036e881db5e334e10b2b61aecb29e.jpg",
           "image": null,
           "year_start": null,
           "year_end": null
@@ -277,8 +281,8 @@ export default[
           "id": 10,
           "name": "Wii U",
           "slug": "wii-u",
-          "games_count": 1149,
-          "image_background": "https://media.rawg.io/media/games/a01/a01b34c722ceec784817381eb1824fa5.jpg",
+          "games_count": 1148,
+          "image_background": "https://media.rawg.io/media/games/e04/e04963f3ac4c4fa83a1dc0b9231e50db.jpg",
           "image": null,
           "year_start": null,
           "year_end": null
@@ -287,8 +291,8 @@ export default[
           "id": 11,
           "name": "Wii",
           "slug": "wii",
-          "games_count": 2256,
-          "image_background": "https://media.rawg.io/media/games/4ad/4ad6ab9cfe8146224330598a4a62fb14.jpg",
+          "games_count": 2255,
+          "image_background": "https://media.rawg.io/media/games/9fb/9fbaea2168caea1f806546dfdaaeb1da.jpg",
           "image": null,
           "year_start": null,
           "year_end": null
@@ -357,8 +361,8 @@ export default[
           "id": 49,
           "name": "NES",
           "slug": "nes",
-          "games_count": 975,
-          "image_background": "https://media.rawg.io/media/games/a75/a75e4cb9742bb172d6bd3deb4cc4109e.jpg",
+          "games_count": 976,
+          "image_background": "https://media.rawg.io/media/games/73e/73e2509fef0e46cdbea86e5e8f8822ca.jpg",
           "image": null,
           "year_start": null,
           "year_end": null
@@ -608,3 +612,4 @@ export default[
       ]
     }
   ]
+}
